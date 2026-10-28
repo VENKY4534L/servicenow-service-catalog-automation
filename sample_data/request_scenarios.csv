@@ -1,0 +1,4 @@
+request_type,required_fields,approval_path,fulfillment_group
+software_access,application_name;access_level;business_justification;required_by,manager_approval,Application Support
+hardware,device_type;business_justification;required_by,manager_approval,Hardware and Assets
+employee_support,request_category;description;urgency,category_based,Service Desk
